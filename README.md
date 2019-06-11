@@ -1,3 +1,1 @@
-# Paper Trading Platform
-
-Full stack project based on MERN stack for paper trading.
+# Simple MERN stack setup to authenticate users
